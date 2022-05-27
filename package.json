@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@expo-google-fonts/rajdhani": "^0.2.2",
+    "@react-navigation/bottom-tabs": "^6.3.1"
+  }
+}
